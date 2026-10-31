@@ -1,0 +1,5 @@
+com\telefonica\telecom\common\dto\DomainEvent.class
+com\telefonica\telecom\common\dto\ApiResponse.class
+com\telefonica\telecom\common\exception\BusinessException.class
+com\telefonica\telecom\common\exception\ResourceNotFoundException.class
+com\telefonica\telecom\common\event\KafkaEventPublisher.class
